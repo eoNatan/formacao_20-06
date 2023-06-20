@@ -22,7 +22,7 @@ body{
     width: 90%;
     padding: 20px;
     margin: 5px;
-    display: flex;
+    display: inline-flex;
     text-align: center;
     align-items: center;
     border-bottom:rgba(255,136,0,0.5) solid ;
@@ -33,5 +33,5 @@ body{
     text-align: center;
     font-size: 24px;
     text-shadow: 2px 4px rgba(255,136,0,0.5);
-
+    float: right;
 }
