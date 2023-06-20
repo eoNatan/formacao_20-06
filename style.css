@@ -14,6 +14,7 @@ body{
     padding: 15px;
     box-shadow: 2px 4px rgba(255,136,0,0.5);
     background-color: #FFFFFF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .cabecalho{
@@ -25,4 +26,8 @@ body{
     text-align: center;
     align-items: center;
     border-bottom:rgba(255,136,0,0.5) solid ;
+}
+
+.titulo {
+
 }
