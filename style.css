@@ -12,6 +12,7 @@ body{
     width: 95%;
     margin: auto;
     padding: 15px;
-    box-shadow: 2px 4px rgba(5, 2, 0, 0.836);
+    box-shadow: 2px 4px rgba(139, 58, 3, 0.836);
+    background-color: antiquewhite;
 }
 
