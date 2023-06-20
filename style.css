@@ -36,6 +36,15 @@ body{
     float: right;
 }
 
-.fotoreceita1{
-    padding: 16px;
+.secao1{
+    padding: 20px;
+    font-size: 14pt;
+}
+.item1{
+    font-style: italic;
+}
+
+.receita1{
+    width: 50%;
+    height: 50%;
 }
