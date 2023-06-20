@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+.principal {
+    height: auto;
+    width: 95%;
+    margin: auto;
+    padding: 15px;
+    box-shadow: 2px 4px rgba(248, 81, 4, 0.74);
+}
+
